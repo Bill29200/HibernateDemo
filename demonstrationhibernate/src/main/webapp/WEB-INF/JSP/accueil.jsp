@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Troisième version</title>
+<title>quatrieme version</title>
 </head>
 <body>
     <h1>Equipements :</h1>
